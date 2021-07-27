@@ -24,4 +24,6 @@ Saved books:
 
 App can be found at: https://murmuring-atoll-32311.herokuapp.com/
 
+Made by: Andrea Poklar
+
 
